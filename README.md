@@ -1,2 +1,2 @@
 # learn-git-repo
-Learning how to use git and utilize its features.
+Learning how to use git and utilize its features. Added dir
